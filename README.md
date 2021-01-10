@@ -2,8 +2,8 @@
 Welcome to my repository. It's been a bit of a while since I updated it last because, you know, life and work and all that stuff gets in the way. Anyway, I will be publishing code to my repo more regularly from now on.
 
 🔭 I’m currently working on ...
-mykeblack.com website v5 - yes its been 7 years since I last updated it so it's long overdue a makeover!
-also some games - Captain Blackstar that is nearly done, and Eskape, which I'm just doing the pre-production phase - generating hte GDD.
+I've just finished my new website, built in react and nodejs. The repo is currently private on this github but I might make it public if anyone wants to look at it.
+also some games - Captain Blackstar that is nearly done, and Eskape, which I'm just doing the pre-production phase - generating the GDD.
 and if I get time, I am also planning on cleaning up my study. 
 
 💬 Ask me about ...
